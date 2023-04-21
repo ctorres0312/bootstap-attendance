@@ -1,0 +1,12 @@
+body {
+    background-color: maroon;
+}
+
+.card-text {
+    text-align: center;
+    color: forestgreen;
+}
+
+.card {
+    margin-top: 300px;
+}
